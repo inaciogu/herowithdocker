@@ -3,4 +3,4 @@ build:
     web: Dockerfile
 
 run: 
-  web: nodemon index.js
+  web: node index.js
